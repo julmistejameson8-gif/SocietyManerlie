@@ -1,1 +1,1 @@
-Ce site est structement pour la Societé Manerlie pur la gestion de ses transactions 
+Ce site est structement pour la Societé Manerlie pour la gestion de ses transactions 
