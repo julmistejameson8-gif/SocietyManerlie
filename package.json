@@ -1,0 +1,14 @@
+{
+  "name": "gestion-credits-simple",
+  "version": "1.0.0",
+  "description": "Application simple de gestion de crédits",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.6",
+    "bcryptjs": "^2.4.3"
+  }
+}
